@@ -1,4 +1,4 @@
-📊 Customer Purchase Behavior Dashboard
+📊 Customer Purchase Behavior Analysis
 
 Unlock the Secrets of Your Customers’ Shopping Habits!
 
